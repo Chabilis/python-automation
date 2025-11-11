@@ -4,7 +4,7 @@ import os
 print("🔍 CAD File Scanner - Starting...\n")
 
 # Test with Desktop folder (CHANGE LATER)
-folder = r"C:\Users\Marlou\Desktop"
+folder = r"C:\Users\Marlou\Desktop\DWG files\cad"
 
 if os.path.exists(folder):
     print(f"✅ Scanning: {folder}")
