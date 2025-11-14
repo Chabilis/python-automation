@@ -1,0 +1,12 @@
+# File Upload API – Portfolio Project #2
+
+**Live URL**: https://marlou-file-upload.onrender.com  
+**Docs**: https://marlou-file-upload.onrender.com/docs
+
+## Features
+- Upload Excel (.xlsx) or CSV
+- Returns JSON with row count, columns, and preview
+- Clean HTML upload page
+- Interactive Swagger UI
+
+Built by Marlou
